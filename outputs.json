@@ -1,0 +1,20 @@
+[
+    {
+        "attributes": {
+            "date": 1686510807,
+            "text": "VMRay Analysis Verdict: Malicious\n\nThreat Name: CobaltStrike\nClassification: Hacktool\n\nAnalysis Report: https://www.vmray.com/analyses/_vt/fc4aeeff110a/report/overview.html\nIOC Tab: https://www.vmray.com/analyses/_vt/fc4aeeff110a/report/ioc.html\nFunction Log: https://www.vmray.com/analyses/_vt/fc4aeeff110a/logs/flog.txt\nSTIX 2.0 IOCs: https://www.vmray.com/analyses/_vt/fc4aeeff110a/report/artifacts/stix-report-2-0-iocs.json\nsummary.json: https://www.vmray.com/analyses/_vt/fc4aeeff110a/logs/summary_v2.json",
+            "votes": {
+                "positive": 0,
+                "abuse": 0,
+                "negative": 0
+            },
+            "html": "VMRay Analysis Verdict: Malicious<br /><br />Threat Name: CobaltStrike<br />Classification: Hacktool<br /><br />Analysis Report: https://www.vmray.com/analyses/_vt/fc4aeeff110a/report/overview.html<br />IOC Tab: https://www.vmray.com/analyses/_vt/fc4aeeff110a/report/ioc.html<br />Function Log: https://www.vmray.com/analyses/_vt/fc4aeeff110a/logs/flog.txt<br />STIX 2.0 IOCs: https://www.vmray.com/analyses/_vt/fc4aeeff110a/report/artifacts/stix-report-2-0-iocs.json<br />summary.json: https://www.vmray.com/analyses/_vt/fc4aeeff110a/logs/summary_v2.json",
+            "tags": []
+        },
+        "type": "comment",
+        "id": "f-fc4aeeff110af5bfddedcff918046451168f9cbed00bbbcc0704aaf2df017dbf-bb936d4f",
+        "links": {
+            "self": "https://www.virustotal.com/api/v3/comments/f-fc4aeeff110af5bfddedcff918046451168f9cbed00bbbcc0704aaf2df017dbf-bb936d4f"
+        }
+    }
+][]
